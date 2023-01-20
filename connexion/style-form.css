@@ -48,8 +48,8 @@ Todo : styliser le fomulaire de connewion et d'inscription
  }
 
 
-/* Media query */
- /* @media(max-width:477px){
+/* Media query  */
+ @media(max-width:477px){
     form{
         width: 150px;
         margin-left: -68px;
@@ -63,7 +63,7 @@ Todo : styliser le fomulaire de connewion et d'inscription
         border: 10px;
         margin-left: -25px;
     }
- } */
+ }
 
  @media(max-width:1024px){
     form{
@@ -78,6 +78,6 @@ Todo : styliser le fomulaire de connewion et d'inscription
     }
     button{
        
-        width: 100px !important;
+        width: 100px;
     }
  }
